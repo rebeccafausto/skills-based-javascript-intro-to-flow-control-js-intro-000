@@ -36,3 +36,8 @@ function switchAge(age) {
   return `You have an age`;
   break;
 }
+console.log(basicTeenager);
+console.log(teenager);
+console.log(ageChecker);
+console.log(ternaryTeenager);
+console.log(switchAge);
